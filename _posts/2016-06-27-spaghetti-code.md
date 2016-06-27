@@ -3,29 +3,29 @@ title: Curse of spaghetti code
 layout: post
 categories: blog development
 tags:
-- project management
+- management
 - daily
 ---
 
-# Curse of spaghetti code 
+# Curse of spaghetti code
 
 I quit my job. There are too many reasons I can give to you, but I think the primary reason was that I hit a brick wall when trying to hack into a spaghetti code, that is a curse upon a project.
 
-## Spaghetti code 
+## Spaghetti code
 
 I'm sure there is a very good definition for spaghetti code out there. I'll give you my definition: the kind of code that prevents you from making estimations regarding:
 * When you will complete a feature/bugfix/refactoring task
 * Overall error-proneness of the piece of code you introduced
 
-## Hope is lost 
+## Hope is lost
 
 When you cannot make estimations for those, you lose hope. Usually there is no easy way to explain it to the person you report to. Your manager doesn't care if it's spaghetti code or not. What's done is done, there are customers waiting for that shiny new feature, promises have been made. You feel the tension and impatience in his voice. Not good.
 
-Either you handle it, or the task should be assigned to someone else. You feel like you lost credibility, trustability and what not. 
+Either you handle it, or the task should be assigned to someone else. You feel like you lost credibility, trustability and what not.
 
 ## Anger
 
-Anger build-up is real. Spaghetti code does make you lose hope but that's not the only bad thing that happens. You get angry at the code because you spend much more time trying to hack into it than you would with a quality code. You become angry at your manager because he allows lousy code, your colleagues because they write lousy code and they allow it in code reviews. 
+Anger build-up is real. Spaghetti code does make you lose hope but that's not the only bad thing that happens. You get angry at the code because you spend much more time trying to hack into it than you would with a quality code. You become angry at your manager because he allows lousy code, your colleagues because they write lousy code and they allow it in code reviews.
 
 ## Company culture
 
